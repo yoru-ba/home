@@ -1,2 +1,1 @@
-# home
-Landing repository
+Very, very short README
